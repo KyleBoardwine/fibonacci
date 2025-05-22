@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+mylibrary.egg-info/PKG-INFO
+mylibrary.egg-info/SOURCES.txt
+mylibrary.egg-info/dependency_links.txt
+mylibrary.egg-info/top_level.txt
+mypythonlibrary/__init__.py
+mypythonlibrary/myfunctions.py
