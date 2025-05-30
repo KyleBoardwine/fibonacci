@@ -49,11 +49,13 @@ Use semantic versioning via GitHub tags
    Go to repo -> Releases -> "Draft a new release"
 
 ## 🔄 Working with Versions
+
 **Install a Specific Version**
 
 pip install git+https://github.com/KyleBoardwine/fibonacci@v1.1.0
 
 **Switch Local Code to a Version Branch**
+
 git checkout v1.1.0
 
 git checkout main
@@ -65,7 +67,7 @@ git clone https://github.com/KyleBoardwine/fibonacci
 
 cd mypythonlibrary
 
-**Create a virtual environment**
+**Create a virtual environment:**
 
 python -m venv venv
 
