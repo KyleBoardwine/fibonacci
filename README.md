@@ -3,10 +3,10 @@ This README will act as a modular, pip-installable Python utility library for re
 
 ## 🚀 Installation
 Installing the latest version directly from GitHub:
-pip install git+**your GitHub url**
+pip install git+https://github.com/KyleBoardwine/fibonacci
 
 Or install a specific version tag:
-pip install git+**your GitHub url**@v1.0.0
+pip install git+https://github.com/KyleBoardwine/fibonacci@v1.0.0
 
 If you want to uninstall:
 pip uninstall mypythonlibrary
@@ -40,7 +40,7 @@ Use semantic versioning via GitHub tags
 
 ## 🔄 Working with Versions
 **Install a Specific Version**
-pip install git+**your GitHub url**@v1.1.0
+pip install git+https://github.com/KyleBoardwine/fibonacci@v1.1.0
 
 **Switch Local Code to a Version Branch**
 git checkout v1.1.0
@@ -48,7 +48,7 @@ git checkout main
 
 ## 🧪 Development & Contributing
 **Clone the repo:**
-git clone**url**
+git clone https://github.com/KyleBoardwine/fibonacci
 cd mypythonlibrary
 
 **Create a virtual environment**
