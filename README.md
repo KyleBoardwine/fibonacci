@@ -11,6 +11,7 @@ Or install a specific version tag:
 **pip install git+https://github.com/KyleBoardwine/fibonacci@v1.0.0**
 
 If you want to uninstall:
+
 pip uninstall mypythonlibrary
 
 ## 🧠 Features
@@ -49,20 +50,27 @@ Use semantic versioning via GitHub tags
 
 ## 🔄 Working with Versions
 **Install a Specific Version**
+
 pip install git+https://github.com/KyleBoardwine/fibonacci@v1.1.0
 
 **Switch Local Code to a Version Branch**
 git checkout v1.1.0
+
 git checkout main
 
 ## 🧪 Development & Contributing
 **Clone the repo:**
+
 git clone https://github.com/KyleBoardwine/fibonacci
+
 cd mypythonlibrary
 
 **Create a virtual environment**
+
 python -m venv venv
+
 source venv/Scripts/activate
 
 **Install locally in editable mode:**
+
 pip install -e
