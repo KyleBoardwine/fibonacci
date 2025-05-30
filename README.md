@@ -3,9 +3,11 @@ This README will act as a modular, pip-installable Python utility library for re
 
 ## 🚀 Installation
 Installing the latest version directly from GitHub:
+
 **pip install git+https://github.com/KyleBoardwine/fibonacci**
 
 Or install a specific version tag:
+
 **pip install git+https://github.com/KyleBoardwine/fibonacci@v1.0.0**
 
 If you want to uninstall:
@@ -26,8 +28,11 @@ pip uninstall mypythonlibrary
 
 ## 🏗️ Python Packaging Best Practices
 Use pyporject.toml to define build system and dependencies
+
 Add __init__.py to make directories importable
+
 Keep test cases in a separate /tests folder
+
 Use semantic versioning via GitHub tags
 
 ## 🔖 Versioning & Releases
