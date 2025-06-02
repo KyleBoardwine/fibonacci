@@ -29,14 +29,23 @@ pip uninstall mypythonlibrary
 
 mypythonlibrary/
 ├── __init__.py
+
 ├── config.py
+
 ├── data_utils.py
+
 ├── file_utils.py
+
 ├── logger.py
+
 ├── myfunctions.py
+
 ├── constants.py
+
 setup.py
+
 pyproject.toml
+
 README.md
 
 
