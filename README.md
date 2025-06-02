@@ -51,24 +51,36 @@ README.md
 
 
 ## 🏗️ Python Packaging Best Practices
-Use pyporject.toml to define build system and dependencies
+Use **pyporject.toml** to define build system and dependencies
 
-Add __init__.py to make directories importable
+Add **__init__.py** to make directories importable
 
-Keep test cases in a separate /tests folder
+Keep test cases in a separate **/tests ** folder
 
 Use semantic versioning via GitHub tags
 
+Use **.gitignore** to exclude files like **__pycache__/**, **.env**, and secrets
+
 ## 🔖 Versioning & Releases
+
 **Create a New Release**
+
 1. Commit your changes and push:
+
    git add .
+   
    git commit -m "Add comment about commit"
+   
    git push origin main
+   
 2. Tag a version:
-   git tag v1.1.0
+
+    git tag v1.1.0
+   
    git push origin v1.1.0
+   
 3. Create a release on GitHub
+   
    Go to repo -> Releases -> "Draft a new release"
 
 ## 🔄 Working with Versions
