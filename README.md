@@ -28,6 +28,7 @@ pip uninstall mypythonlibrary
 ## 📁 Package Structure
 
 mypythonlibrary/
+
 ├── __init__.py
 
 ├── config.py
