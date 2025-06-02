@@ -27,6 +27,19 @@ pip uninstall mypythonlibrary
 
 ## 📁 Package Structure
 
+mypythonlibrary/
+├── __init__.py
+├── config.py
+├── data_utils.py
+├── file_utils.py
+├── logger.py
+├── myfunctions.py
+├── constants.py
+setup.py
+pyproject.toml
+README.md
+
+
 ## 🏗️ Python Packaging Best Practices
 Use pyporject.toml to define build system and dependencies
 
