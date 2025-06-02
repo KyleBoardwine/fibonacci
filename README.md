@@ -87,7 +87,7 @@ README.md
 
 **Install a Specific Version**
 
-pip install git+https://github.com/KyleBoardwine/fibonacci@v1.1.0
+- pip install git+https://github.com/KyleBoardwine/fibonacci@v1.1.0
 
 **Switch Local Code to a Version Branch**
 
