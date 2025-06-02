@@ -91,23 +91,23 @@ pip install git+https://github.com/KyleBoardwine/fibonacci@v1.1.0
 
 **Switch Local Code to a Version Branch**
 
-git checkout v1.1.0
+- git checkout v1.1.0
 
-git checkout main
+- git checkout main
 
 ## 🧪 Development & Contributing
 **Clone the repo:**
 
-git clone https://github.com/KyleBoardwine/fibonacci
+- git clone https://github.com/KyleBoardwine/fibonacci
 
-cd mypythonlibrary
+- cd mypythonlibrary
 
 **Create a virtual environment:**
 
-python -m venv venv
+- python -m venv venv
 
-source venv/Scripts/activate
+- source venv/Scripts/activate
 
 **Install locally in editable mode:**
 
-pip install -e
+- pip install -e
