@@ -12,7 +12,7 @@ Or install a specific version tag:
 
 If you want to uninstall:
 
-- pip uninstall mypythonlibrary
+- **pip uninstall mypythonlibrary**
 
 ## 🧠 Features
 ✅ Reusable data processing and I/O utilities
