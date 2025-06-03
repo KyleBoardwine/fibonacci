@@ -15,15 +15,15 @@ If you want to uninstall:
 - **pip uninstall mypythonlibrary**
 
 ## 🧠 Features
-✅ Reusable data processing and I/O utilities
+- Reusable data processing and I/O utilities
 
-🔧 Config management with YAML/JSON
+- Config management with YAML/JSON
 
-📊 Business logic functions
+- Business logic functions
 
-🔒 Versioning with GitHub Releases
+- Versioning with GitHub Releases
 
-📦 Pip-compatible library structure
+- Pip-compatible library structure
 
 ## 📁 Package Structure
 
